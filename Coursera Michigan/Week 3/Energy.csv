@@ -2,7 +2,7 @@ Country,Energy Supply,Energy Supply per Capita,% Renewable
 Afghanistan,321 000 000,  10, 78.67
 Albania,102 000 000,  35, 100.00
 Algeria,1959 000 000,  51, 0.55
-American Samoa,#VALUE!,..., 0.64
+American Samoa,0,0, 0.64
 Andorra,9 000 000,  121, 88.70
 Angola,642 000 000,  27, 70.91
 Anguilla,2 000 000,  136, 0.00
@@ -85,7 +85,7 @@ Greece,993 000 000,  90, 24.80
 Greenland,9 000 000,  166, 78.13
 Grenada,5 000 000,  43, 0.00
 Guadeloupe,33 000 000,  70, 14.81
-Guam,#VALUE!,..., 0.00
+Guam,0,0, 0.00
 Guatemala,452 000 000,  29, 49.52
 Guernsey,  0,  6, 0.00
 Guinea,145 000 000,  12, 48.44
@@ -149,7 +149,7 @@ Nicaragua,149 000 000,  25, 40.76
 Niger,87 000 000,  5, 0.00
 Nigeria,5589 000 000,  32, 18.39
 Niue,  0,  65, 0.00
-Northern Mariana Islands,#VALUE!,..., 0.00
+Northern Mariana Islands,0,0, 0.00
 Norway,1388 000 000,  273, 97.64
 Oman,1015 000 000,  260, 0.00
 Pakistan,2868 000 000,  16, 31.88
@@ -209,14 +209,14 @@ Tunisia,430 000 000,  39, 3.49
 Turkey,4897 000 000,  64, 28.54
 Turkmenistan,1102 000 000,  210, 0.00
 Turks and Caicos Islands,3 000 000,  85, 0.00
-Tuvalu,#VALUE!,..., 0.00
+Tuvalu,0,0, 0.00
 Uganda,452 000 000,  12, 68.02
 Ukraine,4844 000 000,  107, 8.07
 United Arab Emirates,2710 000 000,  300, 0.00
 United Kingdom,7920 000 000,  124, 10.60
 United Republic of Tanzania,994 000 000,  20, 31.07
 United States,90838 000 000,  286, 11.57
-United States Virgin Islands,#VALUE!,..., 0.00
+United States Virgin Islands,0,0, 0.00
 Uruguay,196 000 000,  58, 71.61
 Uzbekistan,1798 000 000,  62, 21.33
 Vanuatu,3 000 000,  10, 14.71
