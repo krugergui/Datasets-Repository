@@ -10,7 +10,7 @@ Antigua and Barbuda,8 000 000,  84, 0.00
 Argentina,3378 000 000,  79, 24.06
 Armenia,143 000 000,  48, 28.24
 Aruba,12 000 000,  120, 14.87
-Australia,5386 000 000,  231, 11.81
+Australia1,5386 000 000,  231, 11.81
 Austria,1391 000 000,  164, 72.45
 Azerbaijan,567 000 000,  60, 6.38
 Bahamas,45 000 000,  118, 0.00
@@ -41,9 +41,9 @@ Cayman Islands,8 000 000,  131, 0.00
 Central African Republic,23 000 000,  5, 85.64
 Chad,77 000 000,  6, 0.00
 Chile,1613 000 000,  92, 28.01
-China,127191 000 000,  93, 19.75
+China2,127191 000 000,  93, 19.75
 Hong Kong,585 000 000,  82, 0.00
-"Macao SAR, China",47 000 000,  83, 0.00
+"China, Macao Special Administrative Region4",47 000 000,  83, 0.00
 Colombia,1513 000 000,32, 63.00
 Comoros,5 000 000,  7, 11.63
 Congo,102 000 000,  23, 57.75
@@ -94,9 +94,9 @@ Guyana,34 000 000,  45, 0.00
 Haiti,172 000 000,  16, 12.76
 Honduras,217 000 000,  28, 37.76
 Hungary,947 000 000,  95, 3.26
-Iceland,312000000,957, 99.97
+Iceland,312 000 000,957, 99.97
 India,33195 000 000,  26, 14.97
-Indonesia,8754 000 000,  35, 12.19
+Indonesia8,8754 000 000,  35, 12.19
 Iran,9172 000 000,  119, 5.71
 Iraq,2077 000 000,  61, 7.87
 Ireland,548 000 000,  117, 20.92
@@ -132,7 +132,7 @@ Martinique,33 000 000,  84, 2.61
 Mauritania,51 000 000,  13, 0.00
 Mauritius,58 000 000,  46, 3.53
 Mexico,7944 000 000,  64, 12.91
-Micronesia,2 000 000,  21, 2.94
+Micronesia (Federated States of),2 000 000,  21, 2.94
 Mongolia,475 000 000,  166, 0.00
 Montenegro,42 000 000,  67, 65.58
 Montserrat,1 000 000,  153, 0.00
@@ -178,11 +178,11 @@ Samoa,4 000 000,  22, 31.36
 Sao Tome and Principe,3 000 000,  14, 10.45
 Saudi Arabia,7985 000 000,  264, 0.00
 Senegal,154 000 000,  11, 2.00
-Serbia15,618 000 000,  69, 27.22
+Serbia,618 000 000,  69, 27.22
 Seychelles,9 000 000,  94, 1.98
 Sierra Leone,67 000 000,  11, 64.02
 Singapore,1120 000 000,  207, 0.00
-Sint Maarten,12 000 000,  327, 0.00
+Sint Maarten (Dutch part),12 000 000,  327, 0.00
 Slovakia,711 000 000,  131, 20.22
 Slovenia,287 000 000,  139, 31.86
 Solomon Islands,6 000 000,  11, 0.00
@@ -200,7 +200,7 @@ Switzerland,1113 000 000,  136, 57.75
 Syrian Arab Republic,542 000 000,  28, 11.57
 Tajikistan,106 000 000,  13, 99.74
 Thailand,5336 000 000,  79, 4.31
-North Macedonia,117 000 000,  56, 26.14
+The former Yugoslav Republic of Macedonia,117 000 000,  56, 26.14
 Timor-Leste,7 000 000,  6, 0.00
 Togo,134 000 000,  19, 80.18
 Tonga,3 000 000,  28, 0.00
